@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "K7YqxeyQFDxxf39MdiP0VAhuGeo5iXAKT1uSIi12XySq+ijdAnnx2LYnedi53P7GsT+u6p5Pm2h4RkeRvJ8xsA==",
+  "dgSpecHash": "W79WEo1hhEym7ZrQu/8Uu2cVApIQmozwG05jyjjOiE8WzoF8uWRZqx0sq5AmB12Ibc9i/4ZbBzJpY/3sar3jQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fgonzalez\\Documents\\DivisorDeAPIs\\DIvisor-de-APIs\\DivisorDeAPIs\\DivisorDeAPIs\\DivisorDeAPIs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fgonzalez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
